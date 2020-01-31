@@ -1,2 +1,2 @@
-# Adding-Images-To-Angry-Birds
-Adding images to the game and learning inheritence.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
